@@ -1,9 +1,9 @@
 {
     "image.library.notifications.url": "${image.library.url}notifications/%image%.png",
     "achievements.images.url": "${image.library.url}Quests/%image%.png",
-    "camera.url": "https://camera.url",
-    "thumbnails.url": "https://camera.url/thumbnail/%thumbnail%.png",
-    "url.prefix": "https://website.com",
+    "camera.url": "http://153.75.83.184/swf/usercontent/camera",
+    "thumbnails.url": "http://153.75.83.184/swf/usercontent/thumbnails/%thumbnail%.png",
+    "url.prefix": "http://153.75.83.184",
     "habbopages.url": "${url.prefix}/",
     "group.homepage.url": "${url.prefix}/groups/%groupid%/id",
     "guide.help.alpha.groupid": 0,
